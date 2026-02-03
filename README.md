@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Chaima Ismail
 
 **Data Scientist | IA Specialist** — passionnée par les **LLMs**, les **systèmes de recommandation** et l’**Explainable AI**.  
-Je construis des solutions IA **fiables, performantes** et orientées impact (prédiction Top-K, rating prediction, génération d’explications naturelles).  
+Je construis des solutions IA **fiables, performantes**.  
 
 ---
 

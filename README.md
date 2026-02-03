@@ -30,13 +30,13 @@ Je construis des solutions IA **fiables, performantes** et orientées impact (pr
 - Framework **2 étapes** : **Top-K / Rating prediction** + **explications en langage naturel post-hoc**
 - Fine-tuning de **LLaMA-2-chat** (HitRate@10 **95%**), comparaison avec **Mistral** + benchmark sémantique
 
-#### 🏢 ERP Lynx (2025–Present) — Projet interne
+####  ERP Lynx (2025–Present) — Projet interne
 - Modélisation & analyse prédictive + pipelines data
 - Stack : Python • SQL Server/MySQL • XGBoost/LightGBM/CatBoost • LSTM • Power BI
 
 ---
 
-### 💼 Experience Highlights
+###  Experience Highlights
 - **IA Specialist — Tessi Tunisie** (2025–Present)  
   DB design (SQL Server / MySQL), EDA, feature engineering, modèles supervisés & DL, dashboards & reporting.
 - **Research Scientist — MIS & Advanced Computing Lab** (2023–2025)  
@@ -50,7 +50,7 @@ Je construis des solutions IA **fiables, performantes** et orientées impact (pr
 
 ---
 
-### 🎓 Education & Certifications
+###  Education & Certifications
 - **Master Data Science** — IISMM Sfax (2022–2025)  
 - **Licence Analyse des données & Big Data** — IISMM Sfax (2019–2022)
 
@@ -62,18 +62,18 @@ Je construis des solutions IA **fiables, performantes** et orientées impact (pr
 
 ---
 
-### 🌍 Languages
+###  Languages
 - 🇹🇳 Arabe : natif  
 - 🇬🇧 Anglais : professionnel (courant)  
 - 🇫🇷 Français : intermédiaire
 
 ---
 
-### 📫 How to reach me
+###  How to reach me
 - ✉️ Email: **chaimaismail005@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/ismail-chaima/
 
 ---
 
-### ⚡ Fun fact
+###  Fun fact
 J’adore rendre les modèles **compréhensibles** : une bonne explication vaut parfois autant qu’un bon score 🚀

@@ -21,7 +21,7 @@ Je construis des solutions IA **fiables, performantes** et orientées impact (pr
 **Languages:** Python • SQL • JavaScript  
 **ML/DL:** Scikit-learn • TensorFlow/Keras • XGBoost • LightGBM • CatBoost • Random Forest • LSTM • CNN • GNN  
 **LLM:** Fine-tuning • Prompt Engineering • RAG • Evaluation (Reasonableness / Transparency / Attractiveness)  
-**Data & Tools:** Power BI • PostgreSQL • MySQL • SQL Server • MongoDB • Git/GitHub/GitLab • JIRA/ClickUp
+**Data & Tools:** Power BI • PostgreSQL • MySQL • SQL Server • MongoDB • Git/GitHub/GitLab • JIRA/ClickUp/Sciforma
 
 ---
 

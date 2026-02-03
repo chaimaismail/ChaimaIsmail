@@ -1,12 +1,12 @@
 ## Hi there 👋 I’m Chaima Ismail
 
-**Data Scientist | IA Specialist** — passionnée par les **LLMs**, les **systèmes de recommandation** et l’**Explainable AI**.  
+**Data Scientist | IA Specialist** passionnée par les **LLMs**, les **systèmes de recommandation** et l’**Explainable AI**.  
 Je construis des solutions IA **fiables, performantes**.  
 
 ---
 
 ###  Current
--  **IA Specialist @ Tessi Tunisie (Tunis)** — Data/ML, feature engineering, EDA, forecasting (XGBoost / LightGBM / CatBoost / LSTM), reporting & data visualization
+-  **IA Specialist @ Tessi Tunisie (Tunis)** Data/ML, feature engineering, EDA, forecasting (XGBoost / LightGBM / CatBoost / LSTM), reporting & data visualization
 -  En ce moment : **RAG**, **fine-tuning**, **prompt engineering**, évaluation & métriques LLM
 
 ---

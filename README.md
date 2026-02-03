@@ -39,7 +39,7 @@ Je construis des solutions IA **fiables, performantes**.
 ###  Languages
 - 🇹🇳 Arabe : natif  
 - 🇬🇧 Anglais : professionnel (courant)  
-- 🇫🇷 Français : intermédiaire
+- 🇫🇷 Français : professionnel (courant)  
 
 ---
 

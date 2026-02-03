@@ -76,4 +76,4 @@ Je construis des solutions IA **fiables, performantes** et orientées impact (pr
 ---
 
 ###  Fun fact
-J’adore rendre les modèles **compréhensibles** : une bonne explication vaut parfois autant qu’un bon score 🚀
+J’adore rendre les modèles **compréhensibles** : une bonne explication vaut parfois autant qu’un bon score 

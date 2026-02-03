@@ -12,7 +12,7 @@ Je construis des solutions IA **fiables, performantes**.
 ---
 
 ###  About me
--  Ask me about: **LLMs (LLaMA-2 / Mistral)**, **Recommender Systems**, **NLP**, **ML/DL**, **Power BI**, **SQL**
+-  Ask me about: **GenIA (LLaMA-2 / Mistral/...)**, **RAG**, **Recommender Systems**, **NLP**, **ML/DL**, **Power BI**, **SQL**
 -  J’aime transformer des données complexes en **insights** et en **produits IA** clairs, explicables et utiles.
 
 ---
@@ -30,7 +30,7 @@ Je construis des solutions IA **fiables, performantes**.
 - Framework **2 étapes** : **Top-K / Rating prediction** + **explications en langage naturel post-hoc**
 - Fine-tuning de **LLaMA-2-chat** (HitRate@10 **95%**), comparaison avec **Mistral** + benchmark sémantique
 
-####  ERP Lynx (2025–Present) — Projet interne
+####  ERP Lynx (09/2025–Present) — Projet interne
 - Modélisation & analyse prédictive + pipelines data
 - Stack : Python • SQL Server/MySQL • XGBoost/LightGBM/CatBoost • LSTM • Power BI
 

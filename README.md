@@ -20,7 +20,7 @@ Je construis des solutions IA **fiables, performantes**.
 ###  Tech Stack
 **Languages:** Python • SQL • JavaScript  
 **ML/DL:** Scikit-learn • TensorFlow/Keras • XGBoost • LightGBM • CatBoost • Random Forest • LSTM • CNN • GNN  
-**LLM:** Fine-tuning • Prompt Engineering • RAG • Evaluation (Reasonableness / Transparency / Attractiveness)  
+**LLM:** Fine-tuning • Prompt Engineering • RAG • Evaluation  
 **Data & Tools:** Power BI • PostgreSQL • MySQL • SQL Server • MongoDB • Git/GitHub/GitLab • JIRA/ClickUp/Sciforma
 
 ---

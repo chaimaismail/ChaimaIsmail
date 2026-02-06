@@ -27,7 +27,7 @@ Je construis des solutions IA **fiables, performantes**.
 
 ###  Featured Projects
 ####  CoPREC — Recommender System explicable avec LLMs (2023–2025)
-- Framework **2 étapes** : **Top-K / Rating prediction** + **explications en langage naturel post-hoc**
+- Framework **deux étapes** : **Top-K / Rating prediction** + **explications en langage naturel post-hoc**
 - Fine-tuning de **LLaMA-2-chat** (HitRate@10 **95%**), comparaison avec **Mistral** + benchmark sémantique
 
 ####  ERP Lynx (09/2025–Present) — Projet interne
